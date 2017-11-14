@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+- It generates an empty .git file. You need to do this to be able to start tracking
+  commits 
+ How is the staging area different from the working directory and the repository? What value do you think it offers?
+ - It is an intermediate area that lets you select multiple files to include in a commit.
