@@ -6,3 +6,5 @@ What happens when you initialize a repository? Why do you need to do it?
  How can you use the staging area to make sure you have one commit per logical change?
  - It lets you add exactly what you want to include in that commit. So you can still have more changes, but load them
   in separate commit files
+ What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ - If you want to make some test mods to your main app without screwing stuff up yo! Bruh, brooski
