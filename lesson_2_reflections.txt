@@ -13,3 +13,5 @@ What happens when you initialize a repository? Why do you need to do it?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 - It maintains any common code, saves any deletions if code was present before branch point, and saves 
   any additions after the branch points
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+- Faster to do it, can do illogical stuff sometimes, doesn't have direct user feedback
