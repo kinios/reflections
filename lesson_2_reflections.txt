@@ -8,3 +8,5 @@ What happens when you initialize a repository? Why do you need to do it?
   in separate commit files
  What are some situations when branches would be helpful in keeping your history organized? How would branches help?
  - If you want to make some test mods to your main app without screwing stuff up yo! Bruh, brooski
+ How do the diagrams help you visualize the branch structure?
+ - They can show you how branches are related to each other and which commits are visible from which branch
