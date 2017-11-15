@@ -10,3 +10,6 @@ What happens when you initialize a repository? Why do you need to do it?
  - If you want to make some test mods to your main app without screwing stuff up yo! Bruh, brooski
  How do the diagrams help you visualize the branch structure?
  - They can show you how branches are related to each other and which commits are visible from which branch
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- It maintains any common code, saves any deletions if code was present before branch point, and saves 
+  any additions after the branch points
